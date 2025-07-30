@@ -45,20 +45,20 @@ This part tests GitHub proficiency and involves:
 
 ---
 
-## Index of Questions
+## Questions Covered
 
-- [Question 1](#question-1)
-- [Question 2](#question-2)
-- [Question 3](#question-3)
-- [Question 4](#question-4)
-- [Question 5](#question-5)
-- [Question 6](#question-6)
-- [Question 7](#question-7)
-- [Question 8](#question-8)
-- [Question 9](#question-9)
-- [Question 10](#question-10)
-- [Question 11](#question-11)
-- [Question 12](#question-12)
-- [Question 13](#question-13)
+- Question 1: Define a class with no attributes
+- Question 2: Add class attributes
+- Question 3: Modify attributes using `setattr`
+- Question 4: Use constructors with class attributes
+- Question 5: Add method to compute curved average
+- Question 6: Function with variable arguments (`*args`)
+- Question 7: Compute average using `*args`
+- Question 8: Use `**kwargs` and unpack dictionary
+- Question 9: Dictionary unpacking in functions
+- Question 10: Nested functions
+- Question 11: Basic decorator
+- Question 12: Decorator with arguments
+- Question 13: Decorator with arbitrary arguments
 
 ---
